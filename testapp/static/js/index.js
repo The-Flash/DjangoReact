@@ -5,7 +5,7 @@ function Hello(props){
     return <h1>Hey, {props.name}</h1>
 }
 
-const element = <Hello name="Manjil"/>
+const element = <Hello name="Augustine Smith"/>
 
 ReactDOM.render(
     element,
