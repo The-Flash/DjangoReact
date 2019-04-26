@@ -15,6 +15,8 @@ pip install django-webpack-loader
 ```
 npm run watch
 ```
-
+```
+python manage.py runserver
+```
 
 You can add your react code to the testapp's index.html
